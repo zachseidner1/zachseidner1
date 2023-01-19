@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I enjoy playing the piano**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">zachary.seidner@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
