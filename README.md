@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Zach Seidner</h1>
 <h3 align="center">An aspiring software engineer at Cornell University</h3>
 
-- 🔭 I’m currently working on [Happiness App](https://github.com/jonathanjma/HappinessApp)
+- 🔭 I’m currently working on [Happiness App](https://github.com/jonathanjma/HappinessApp) and Cornell AppDev's [Volume](https://github.com/zachseidner1/volume-compose-android)
 
-- 🌱 I’m currently learning **Backend Development with Flask and SQL**
+- 🌱 I’m currently learning **Jetpack Compose, React Native**,
 
 - 📫 How to reach me **zachary.seidner@gmail.com**
 
