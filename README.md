@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Happiness App](https://github.com/jonathanjma/HappinessApp) and Cornell AppDev's [Volume](https://github.com/zachseidner1/volume-compose-android)
 
-- 🌱 I’m currently learning **Jetpack Compose, React Native**
+- 🌱 I’m currently learning **Jetpack Compose** and **React Native**
 
 - 📫 How to reach me **zachary.seidner@gmail.com**
 
